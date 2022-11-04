@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://github.com/MohammadAlmadhi/Single-Price-Grid-Component)
+- Live Site URL: [Click here](https://mohammadalmadhi.github.io/Single-Price-Grid-Component/)
 
 ## My process
 
@@ -33,7 +33,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox### Useful resources
 
-- [Normalize.css](https://www.example.com) - This helped Render Elements Normally.
+- [Normalize.css](https://necolas.github.io/normalize.css/) - This helped Render Elements Normally.
 
 ## Author
 
